@@ -1,0 +1,2 @@
+puts my_name = 'Ariella'
+puts my_name * 2
